@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CalculatorProject</string>
+    <string name="tieude">Calculator</string>
+    <string name="s1">1</string>
+    <string name="s2">2</string>
+    <string name="s3">3</string>
+    <string name="s4">4</string>
+    <string name="s5">5</string>
+    <string name="s6">6</string>
+    <string name="s7">7</string>
+    <string name="s8">8</string>
+    <string name="s9">9</string>
+    <string name="s0">0</string>
+    <string name="ce">CE</string>
+    <string name="c">C</string>
+    <string name="cong">+</string>
+    <string name="tru">-</string>
+    <string name="nhan">*</string>
+    <string name="chia">/</string>
+    <string name="bang">=</string>
+    <string name="phantram">%</string>
+    <string name="cham">.</string>
+
+</resources>
